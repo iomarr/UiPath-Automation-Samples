@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA Challenge Task Summary",
+  "Type": "Screen",
+  "Id": "BnrAzxX-q0eT_Jmz6nBccA",
+  "Reference": "7MOc-11y6E6_E_t-8zUb3g/BnrAzxX-q0eT_Jmz6nBccA",
+  "ParentRef": "7MOc-11y6E6_E_t-8zUb3g/Um1FZKpj20Oa1U42ZDMDPQ",
+  "Created": "2025-07-01T12:12:51.920262Z",
+  "Updated": "2025-07-01T12:12:51.920262Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome RPA Challenge Task Summary",
+  "Type": "App",
+  "Id": "XNu0ZrljakmfDXy1u4_eLA",
+  "Reference": "7MOc-11y6E6_E_t-8zUb3g/XNu0ZrljakmfDXy1u4_eLA",
+  "Created": "2025-07-01T12:12:51.8961185Z",
+  "Updated": "2025-07-01T12:12:51.8961185Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
